@@ -42,7 +42,7 @@ age-calculator/
 
 1. Clone the repository
 ```bash
-   git clone https://github.com/khushisingh916228-droid/age-calculator.git
+   https://github.com/khushisingh916228-droid/age-calculator.git
 ```
 2. Open `index.html` in your browser
 3. Select your date of birth and click "Calculate Age"
